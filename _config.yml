@@ -38,45 +38,29 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Real-Time Voice Control
+    description                           : Talk naturally to control X with your voice. Real-time audio streaming with AI-powered voice assistants for fluid, low-latency conversations.
+    fontawesome_icon_name                 : microphone
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Full X Integration
+    description                           : Create posts, reply to tweets, like content, and manage your X account—all hands-free with voice commands.
+    fontawesome_icon_name                 : x-twitter
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : AI-Powered Intelligence
+    description                           : Powered by Grok and OpenAI voice services to understand context and provide intelligent assistance for your X experience.
+    fontawesome_icon_name                 : brain
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Secure Authentication
+    description                           : Safe X OAuth2 integration with App Attest security. Your credentials are protected with industry-standard encryption.
+    fontawesome_icon_name                 : lock
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Usage Analytics
+    description                           : Track your voice assistant usage and costs. Stay informed about your API consumption with detailed analytics.
+    fontawesome_icon_name                 : chart-line
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Subscription + Credits
+    description                           : Subscribe to unlock access, then purchase additional credits as needed. Flexible pricing with transparent costs and pay-as-you-go options.
+    fontawesome_icon_name                 : coins
 
 
 
