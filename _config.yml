@@ -44,7 +44,7 @@ features                                  :
 
   - title                                 : Full X Integration
     description                           : Create posts, reply to tweets, like content, and manage your X account—all hands-free with voice commands.
-    fontawesome_icon_name                 : x-twitter
+    fontawesome_icon_name                 : comments
 
   - title                                 : AI-Powered Intelligence
     description                           : Powered by Grok and OpenAI voice services to understand context and provide intelligent assistance for your X experience.
