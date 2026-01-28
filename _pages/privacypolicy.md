@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**
-January 16, 2026
+January 28, 2026
 
 <br>
 
@@ -132,6 +132,7 @@ The Application uses the following third-party services that may collect and pro
 
 | Service | Purpose | Privacy Policy |
 | :--- | :--- | :--- |
+| **Google Firebase Analytics** | Anonymous usage analytics and app performance monitoring | [Google Privacy Policy](https://policies.google.com/privacy) |
 | **CloudFlare Workers** | API proxy and request handling | [CloudFlare Privacy Policy](https://www.cloudflare.com/privacypolicy/) |
 | **Apple StoreKit** | In-app purchases and subscriptions | [Apple Privacy Policy](https://www.apple.com/legal/privacy/) |
 
@@ -221,7 +222,7 @@ The Service Provider will retain User Provided data for as long as you use the A
 
 - **Voice Data:** Not permanently stored; processed in real-time and discarded
 - **X Authentication Tokens:** Stored on your device until you log out or uninstall the Application
-- **Usage Analytics:** Retained for as long as you use the Application and up to 90 days thereafter
+- **Analytics Data:** Event data retained for 14 months; aggregated statistical data retained indefinitely (in accordance with Firebase's retention policy)
 - **Account Information:** Retained until you request deletion
 
 If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at aziz@tweetyvoice.app and they will respond in a reasonable time.
