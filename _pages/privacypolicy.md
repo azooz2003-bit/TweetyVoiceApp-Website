@@ -320,7 +320,7 @@ For GDPR-related requests, contact us at aziz@tweetyvoice.app.
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of **January 16, 2026**.
+This privacy policy is effective as of **January 28, 2026**.
 
 <br>
 
