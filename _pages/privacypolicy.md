@@ -32,6 +32,60 @@ For a better experience, while using the Application, the Service Provider may r
 
 <br>
 
+## Analytics and Usage Data
+
+The Application collects anonymous analytics data to improve app performance, identify bugs, and understand feature usage. This data collection is performed using Google Firebase Analytics.
+
+### Information Automatically Collected:
+
+- Device type and model (e.g., iPhone 15 Pro)
+- Operating system version (e.g., iOS 17.2)
+- App version and build number
+- General location (country and language)
+- App usage patterns (screens viewed, features used, session duration)
+- Anonymous device identifier (Firebase Installation ID)
+
+### Information We Track:
+
+- Feature usage and user interactions (button presses, screen views)
+- Voice session performance metrics (connection time, session events)
+- Purchase attempts and outcomes (product IDs, prices, success/failure reasons)
+- Error logs and performance data
+- App lifecycle events (app opened, backgrounded, closed)
+
+### Important Notes:
+
+- **No Personal Information:** Analytics data does not include your name, email address, X username, or any personally identifiable information
+- **Anonymous Tracking:** We use Firebase Installation ID, which is an anonymous identifier not linked to your identity
+- **No Payment Details:** Purchase analytics track product IDs and amounts but never include credit card numbers or payment information
+- **Voice Content Not Tracked:** The content of your voice conversations is not included in analytics
+
+### Analytics Provider:
+
+We use **Google Firebase Analytics** to collect and process this information. Firebase may collect additional device and network information as described in Google's Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+### Purpose:
+
+Analytics data is used exclusively to:
+
+- Improve app performance, stability, and user experience
+- Identify and fix bugs and technical issues
+- Understand which features are most valuable to users
+- Optimize voice session reliability and speed
+- Track purchase funnel to improve subscription flow
+
+### Data Retention:
+
+Analytics data is retained according to Firebase's default retention policy:
+- **Event data:** 14 months
+- **Aggregated data:** Retained indefinitely for statistical analysis
+
+### Your Choices:
+
+Analytics data collection is currently required for the Application to function properly. If you prefer not to have analytics data collected, you may contact us at aziz@tweetyvoice.app to request alternative options or deletion of your data.
+
+<br>
+
 ## Voice Data Collection and Processing
 
 The Application records and processes voice audio to provide voice assistant functionality. Here's how we handle your voice data:
