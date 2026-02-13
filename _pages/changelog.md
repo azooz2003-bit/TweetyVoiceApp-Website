@@ -10,10 +10,10 @@ Stay updated with the latest features and improvements to Tweety Voice.
 
 <br>
 
-### `Coming Soon`
-# **Version 1.0**
+### `Latest Release`
+# **Version 1.0** - Now Available on the App Store!
 
-Tweety Voice is launching soon on the App Store! Control X (Twitter) with your voice using advanced AI-powered voice assistants.
+Tweety Voice is now live on the App Store! Control X (Twitter) with your voice using advanced AI-powered voice assistants.
 
 #### Features
 - Real-time voice chat with AI assistants (Grok and OpenAI)
